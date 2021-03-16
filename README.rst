@@ -1,6 +1,6 @@
 
-
-forked from `<https://github.com/jameslyons/python_speech_features>`_
+This repogitory was forked from `<https://github.com/ZitengWang/python_kaldi_features>`_
+original python_kaldi_features was forked from `<https://github.com/jameslyons/python_speech_features>`_
 
 check the readme therein for the usages
 
