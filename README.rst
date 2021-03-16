@@ -1,5 +1,5 @@
 
-This repogitory was forked from `<https://github.com/ZitengWang/python_kaldi_features>`, and_
+This repository was forked from `<https://github.com/ZitengWang/python_kaldi_features>`, and_
 original python_kaldi_features was forked from `<https://github.com/jameslyons/python_speech_features>`_
 
 check the readme therein for the usages
